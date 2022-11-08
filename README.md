@@ -1,4 +1,10 @@
-### Hi there 👋
+### Em processo de construção ✨
+
+![cat-typing-on-computer-gif-7](https://user-images.githubusercontent.com/55317999/200666484-b93d6200-9416-4f27-96ff-202dce256c9b.gif)
+
+
+
+
 
 <!--
 **susanyrsouza/susanyrsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
